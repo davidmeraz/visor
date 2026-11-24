@@ -1,0 +1,13 @@
+singleton GemaTheme 1.0 GemaTheme.qml
+ActionButton 1.0 ActionButton.qml
+GlassDialog 1.0 GlassDialog.qml
+GlassIcon 1.0 GlassIcon.qml
+GlassPanel 1.0 GlassPanel.qml
+GlassScrollBar 1.0 GlassScrollBar.qml
+GlassToolTip 1.0 GlassToolTip.qml
+ImageViewer 1.0 ImageViewer.qml
+MattePanel 1.0 MattePanel.qml
+PdfViewer 1.0 PdfViewer.qml
+TextViewer 1.0 TextViewer.qml
+VideoViewer 1.0 VideoViewer.qml
+WaterReflection 1.0 WaterReflection.qml
